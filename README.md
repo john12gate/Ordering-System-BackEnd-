@@ -228,5 +228,3 @@ Run the `install` and `start` commands for email-service, order-service and rest
     "createdAt": "2021-01-16T15:35:42.975Z"
 }`
  
-## Authors
-* **Dhanush Kamath** - [dhanushkamath](https://github.com/dhanushkamath)
